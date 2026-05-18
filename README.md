@@ -86,14 +86,20 @@ AI Tools          use AI to improve delivery without hiding the system
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daxiangme&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxiangme&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daxiangme&theme=github_dark" alt="GitHub Profile Details" />
 
 </div>
 
 <div align="center">
 
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daxiangme&theme=github_dark" alt="Repos per Language" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=daxiangme&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daxiangme&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
