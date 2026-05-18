@@ -4,9 +4,9 @@
 
 # Hi, I'm daxiang 👋
 
-### Backend systems, admin platforms, and business tooling with a taste for clean architecture.
+### AI-focused Full-stack Engineer building business systems, admin platforms, and practical intelligent tools.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&lines=Java+%2B+Spring+Boot+Engineer;Vue+%2B+TypeScript+Admin+Builder;I+turn+messy+business+flows+into+usable+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=780&lines=Java+%2B+Spring+Boot+Full-stack+Engineer;Vue+%2B+TypeScript+Admin+Platform+Builder;AI+tools%2C+agents%2C+and+automation+for+real+workflows;I+turn+messy+business+flows+into+usable+systems" alt="Typing SVG" />
 
 </div>
 
@@ -14,17 +14,18 @@
 
 ## About Me
 
-I build practical systems for real business workflows: backend services, admin consoles, data models, permission systems, and the connective tissue that makes a product reliable.
+I build practical software for real business workflows: backend services, admin consoles, data models, permission systems, and AI-assisted tools that make teams move faster without losing control.
 
-My work usually lives around:
+My work usually sits at the intersection of:
 
 - Java / Spring Boot / Maven multi-module architecture
 - Vue 3 / TypeScript / Vite admin applications
 - MyBatis-Plus, Sa-Token, SQL design, permission modeling
-- Business-heavy systems where correctness matters more than flash
-- Making complex operational pages feel clear, fast, and maintainable
+- LLM applications, AI agents, workflow automation, and developer tooling
+- Business-heavy systems where correctness, traceability, and maintainability matter
+- Turning complex operational pages into clear, fast, and dependable product experiences
 
-I like code that is boring in the best way: predictable, testable, and easy for the next person to understand.
+I like AI that is useful, not decorative. I like code that is boring in the best way: predictable, testable, and easy for the next person to understand.
 
 ---
 
@@ -36,13 +37,14 @@ I like code that is boring in the best way: predictable, testable, and easy for 
 
 ---
 
-## What I Care About
+## AI & Full-stack Focus
 
 ```txt
-Architecture     clear module boundaries, stable contracts, less accidental coupling
-Backend          reliable APIs, consistent permissions, transactional correctness
-Frontend         dense but usable admin UI, loading states, real feedback
-Database         explicit schema design, migration safety, readable SQL
+AI Apps          LLM-powered workflows, agents, automation, practical copilots
+Backend          reliable APIs, permissions, transactions, business correctness
+Frontend         dense admin UI, clear states, fast feedback, usable operations
+Database         explicit schema design, safe migrations, readable SQL
+Architecture     clear modules, stable contracts, less accidental coupling
 Engineering      small complete changes, verified behavior, no mystery magic
 ```
 
@@ -50,11 +52,24 @@ Engineering      small complete changes, verified behavior, no mystery magic
 
 ## Current Focus
 
-- Building maintainable enterprise admin systems
+- Building maintainable enterprise admin systems with Java and Vue
+- Exploring AI agents, MCP workflows, and developer productivity tools
+- Designing safer permission, menu, role, and workflow models
 - Improving frontend and backend integration quality
-- Designing safer permission, menu, and role flows
-- Making generated code fit real project conventions
-- Turning complicated domain processes into calm UI
+- Making AI-generated code fit real project conventions
+- Turning complicated domain processes into calm, usable interfaces
+
+---
+
+## Featured Direction
+
+I am especially interested in products where full-stack engineering and AI meet:
+
+- AI-assisted enterprise admin platforms
+- Internal tools for complex business operations
+- Workflow automation for repetitive engineering and management tasks
+- Backend systems that expose clean, traceable capabilities for agents
+- UI experiences that make advanced systems feel simple to operate
 
 ---
 
@@ -79,12 +94,14 @@ Engineering      small complete changes, verified behavior, no mystery magic
 
 > Good software is not just code that runs.  
 > It is code that survives the next requirement, the next teammate, and the next Monday morning.
+>
+> Good AI software should do the same: assist the work, respect the system, and stay understandable.
 
 ---
 
 <div align="center">
 
-### Let's build things that are useful, stable, and quietly excellent.
+### Building useful systems, practical AI tools, and full-stack products that last.
 
 </div>
 
